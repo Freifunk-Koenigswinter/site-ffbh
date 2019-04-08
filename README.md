@@ -1,2 +1,2 @@
 # site-ffbh
-Gluon 2018.2.1
+freifunk-badhonnef.de supported by freifunk-koenigswinter.de
